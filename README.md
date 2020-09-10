@@ -1,8 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Covid_19_React_Js
+- A web apllication developed using React.js framework.
+- Firebase is used for deployment purposes.
+- In this app, <b>disease.sh</b> is used to fetch live data for covid-19 all over the world.
+- Packages: 
+    - <b>material-ui</b> for styling the application.
+    - <b>react-chartjs-2</b> for integrating charts in the application.
+    - <b>react-leaflet</b> for including maps.
+- Basically, by using this app an user can see the worldwide covid-19 cases.
+- Also, there is an option to view covid cases specefic to some country by using dopdown menu.
+- This web application is hosted on https://covid-19-react-b9714.web.app/
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Intall all the dependencies for the app<br />
 
 ### `npm start`
 
